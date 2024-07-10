@@ -1,1 +1,3 @@
-#  astro-life-project
+#  beAstroSelf
+
+## Working Hard to Encourage Yourself!!
